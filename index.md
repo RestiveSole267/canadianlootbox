@@ -1,3 +1,5 @@
+# Canadian Lootbox
+
 ### Welcome!
 Bonjour, welcome to Canadian Lootbox! We are a online monthly subcription service which send boxes filled with canadian goods right to your doorstep. 
 
