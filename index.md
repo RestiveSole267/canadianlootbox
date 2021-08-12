@@ -1,7 +1,7 @@
 # Canadian Lootbox
 
-### Welcome!
-Bonjour, welcome to Canadian Lootbox! We are a online monthly subcription service which send boxes filled with canadian goods right to your doorstep. 
+### ABOUT
+Canadian Lootbox is an online subscription-based service that delivers Canadian goodies to your doorstep for a monthly subscription. Our lootboxes include a variety of items that are solely available in Canada. To ensure that our subscribers receive high-quality service, we hand-pack the boxes.
 
 ### Who created this?
 Our founder and current owner is Jean-Paul Abi a Canadian native and the website developer is Cameron White.
